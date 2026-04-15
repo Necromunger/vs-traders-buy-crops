@@ -1,5 +1,11 @@
 [
     {
+        "op": "replace",
+        "path": "/buying/maxItems",
+        "value": 12,
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
         "op": "add",
         "path": "/buying/list/0",
         "value": {
@@ -59,7 +65,7 @@
         "value": {
             "code": "rawcassava-raw",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 24,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -185,7 +191,7 @@
         "value": {
             "code": "grain-rice",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 24,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -239,7 +245,7 @@
         "value": {
             "code": "grain-sunflower",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 20,
             "stock": {
                 "avg": 5,
                 "var": 1.25
