@@ -1,0 +1,15 @@
+{
+    "type": "content",
+    "modid": "tradersbuycrops",
+    "name": "TradersBuyCrops",
+    "authors": [
+        "Necromunger"
+    ],
+    "description": "Adds selling crops to the Agriculture trader",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    },
+    "RequiredOnClient": true,
+    "RequiredOnServer": true
+}

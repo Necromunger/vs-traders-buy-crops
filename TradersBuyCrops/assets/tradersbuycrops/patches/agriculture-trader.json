@@ -1,0 +1,290 @@
+[
+    {
+        "op": "add",
+        "path": "/buying/list/0",
+        "value": {
+            "code": "grain-amaranth",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/1",
+        "value": {
+            "code": "vegetable-bellpepper",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/2",
+        "value": {
+            "code": "vegetable-cabbage",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/3",
+        "value": {
+            "code": "vegetable-carrot",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/4",
+        "value": {
+            "code": "rawcassava-raw",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/5",
+        "value": {
+            "code": "grain-flax",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/5",
+        "value": {
+            "code": "flaxfibers",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/6",
+        "value": {
+            "code": "vegetable-onion",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/7",
+        "value": {
+            "code": "vegetable-parsnip",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/8",
+        "value": {
+            "code": "legume-peanut",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/9",
+        "value": {
+            "code": "pineapple",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/10",
+        "value": {
+            "code": "grain-rice",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/11",
+        "value": {
+            "code": "grain-rye",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/12",
+        "value": {
+            "code": "grain-spelt",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/13",
+        "value": {
+            "code": "grain-sunflower",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    },
+    {
+        "op": "add",
+        "path": "/buying/list/14",
+        "value": {
+            "code": "vegetable-turnip",
+            "type": "item",
+            "stacksize": 16,
+            "stock": {
+                "avg": 5,
+                "var": 1.25
+            },
+            "price": {
+                "avg": 1,
+                "var": 0.25
+            }
+        },
+        "file": "game:config/tradelists/trader-agriculture.json"
+    }
+]
