@@ -21,9 +21,9 @@
         "op": "add",
         "path": "/buying/list/1",
         "value": {
-            "code": "vegetable-bellpepper",
+            "code": "vegetable-cabbage",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 4,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -39,9 +39,9 @@
         "op": "add",
         "path": "/buying/list/2",
         "value": {
-            "code": "vegetable-cabbage",
+            "code": "vegetable-carrot",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 20,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -56,24 +56,6 @@
     {
         "op": "add",
         "path": "/buying/list/3",
-        "value": {
-            "code": "vegetable-carrot",
-            "type": "item",
-            "stacksize": 16,
-            "stock": {
-                "avg": 5,
-                "var": 1.25
-            },
-            "price": {
-                "avg": 1,
-                "var": 0.25
-            }
-        },
-        "file": "game:config/tradelists/trader-agriculture.json"
-    },
-    {
-        "op": "add",
-        "path": "/buying/list/4",
         "value": {
             "code": "rawcassava-raw",
             "type": "item",
@@ -91,7 +73,7 @@
     },
     {
         "op": "add",
-        "path": "/buying/list/5",
+        "path": "/buying/list/4",
         "value": {
             "code": "grain-flax",
             "type": "item",
@@ -131,7 +113,7 @@
         "value": {
             "code": "vegetable-onion",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 24,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -149,7 +131,7 @@
         "value": {
             "code": "vegetable-parsnip",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 24,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -167,7 +149,7 @@
         "value": {
             "code": "legume-peanut",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 20,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -185,7 +167,7 @@
         "value": {
             "code": "pineapple",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 2,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -221,7 +203,7 @@
         "value": {
             "code": "grain-rye",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 20,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -239,7 +221,7 @@
         "value": {
             "code": "grain-spelt",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 24,
             "stock": {
                 "avg": 5,
                 "var": 1.25
