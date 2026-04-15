@@ -2,7 +2,7 @@
     {
         "op": "replace",
         "path": "/buying/maxItems",
-        "value": 12,
+        "value": 14,
         "file": "game:config/tradelists/trader-agriculture.json"
     },
     {
@@ -11,7 +11,7 @@
         "value": {
             "code": "grain-amaranth",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 10,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -29,7 +29,7 @@
         "value": {
             "code": "vegetable-cabbage",
             "type": "item",
-            "stacksize": 4,
+            "stacksize": 5,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -47,7 +47,7 @@
         "value": {
             "code": "vegetable-carrot",
             "type": "item",
-            "stacksize": 20,
+            "stacksize": 32,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -65,7 +65,7 @@
         "value": {
             "code": "rawcassava-raw",
             "type": "item",
-            "stacksize": 24,
+            "stacksize": 10,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -83,7 +83,7 @@
         "value": {
             "code": "grain-flax",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 10,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -101,7 +101,7 @@
         "value": {
             "code": "flaxfibers",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 10,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -119,7 +119,7 @@
         "value": {
             "code": "vegetable-onion",
             "type": "item",
-            "stacksize": 24,
+            "stacksize": 22,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -137,7 +137,7 @@
         "value": {
             "code": "vegetable-parsnip",
             "type": "item",
-            "stacksize": 24,
+            "stacksize": 20,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -155,7 +155,7 @@
         "value": {
             "code": "legume-peanut",
             "type": "item",
-            "stacksize": 20,
+            "stacksize": 14,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -179,7 +179,7 @@
                 "var": 1.25
             },
             "price": {
-                "avg": 1,
+                "avg": 4,
                 "var": 0.25
             }
         },
@@ -191,7 +191,7 @@
         "value": {
             "code": "grain-rice",
             "type": "item",
-            "stacksize": 24,
+            "stacksize": 20,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -227,7 +227,7 @@
         "value": {
             "code": "grain-spelt",
             "type": "item",
-            "stacksize": 24,
+            "stacksize": 20,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -245,7 +245,7 @@
         "value": {
             "code": "grain-sunflower",
             "type": "item",
-            "stacksize": 20,
+            "stacksize": 22,
             "stock": {
                 "avg": 5,
                 "var": 1.25
@@ -263,7 +263,7 @@
         "value": {
             "code": "vegetable-turnip",
             "type": "item",
-            "stacksize": 16,
+            "stacksize": 24,
             "stock": {
                 "avg": 5,
                 "var": 1.25
